@@ -1,0 +1,15 @@
+C:\PhanThiYenNhi\Quan_ly_cong_ty_C\bin\Debug\net6.0\Quan_ly_cong_ty_C.exe
+C:\PhanThiYenNhi\Quan_ly_cong_ty_C\bin\Debug\net6.0\Quan_ly_cong_ty_C.deps.json
+C:\PhanThiYenNhi\Quan_ly_cong_ty_C\bin\Debug\net6.0\Quan_ly_cong_ty_C.runtimeconfig.json
+C:\PhanThiYenNhi\Quan_ly_cong_ty_C\bin\Debug\net6.0\Quan_ly_cong_ty_C.dll
+C:\PhanThiYenNhi\Quan_ly_cong_ty_C\bin\Debug\net6.0\Quan_ly_cong_ty_C.pdb
+C:\PhanThiYenNhi\Quan_ly_cong_ty_C\obj\Debug\net6.0\Quan_ly_cong_ty_C.csproj.AssemblyReference.cache
+C:\PhanThiYenNhi\Quan_ly_cong_ty_C\obj\Debug\net6.0\Quan_ly_cong_ty_C.GeneratedMSBuildEditorConfig.editorconfig
+C:\PhanThiYenNhi\Quan_ly_cong_ty_C\obj\Debug\net6.0\Quan_ly_cong_ty_C.AssemblyInfoInputs.cache
+C:\PhanThiYenNhi\Quan_ly_cong_ty_C\obj\Debug\net6.0\Quan_ly_cong_ty_C.AssemblyInfo.cs
+C:\PhanThiYenNhi\Quan_ly_cong_ty_C\obj\Debug\net6.0\Quan_ly_cong_ty_C.csproj.CoreCompileInputs.cache
+C:\PhanThiYenNhi\Quan_ly_cong_ty_C\obj\Debug\net6.0\Quan_ly_cong_ty_C.dll
+C:\PhanThiYenNhi\Quan_ly_cong_ty_C\obj\Debug\net6.0\refint\Quan_ly_cong_ty_C.dll
+C:\PhanThiYenNhi\Quan_ly_cong_ty_C\obj\Debug\net6.0\Quan_ly_cong_ty_C.pdb
+C:\PhanThiYenNhi\Quan_ly_cong_ty_C\obj\Debug\net6.0\Quan_ly_cong_ty_C.genruntimeconfig.cache
+C:\PhanThiYenNhi\Quan_ly_cong_ty_C\obj\Debug\net6.0\ref\Quan_ly_cong_ty_C.dll
