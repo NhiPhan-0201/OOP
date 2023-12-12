@@ -1,0 +1,8 @@
+package congty;
+
+import java.util.List;
+
+public class PhongBan {
+	public PhongBan() {}
+	public PhongBan(string MaPB,String TenPB,string TruongPhong,List<NhanVien> DsNhanVien,List<DuAn> DsDuAn,List<DiaDiem_Phong> DsDiaDiem)
+}
